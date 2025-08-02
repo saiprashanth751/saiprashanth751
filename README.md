@@ -3,9 +3,8 @@
 ---
 
 ### 🚀 About Me  
-💻 I’m currently working on **Full Stack Development**  
-📖 I’m currently learning **WebSockets & Next.js**  
-💬 Ask me about **Node.js, React, PostgreSQL, MongoDB, and more!**  
+💻 I’m a **Full Stack Developer** 
+📖 I’m currently learning **DevOps and Web3**    
 📩 How to reach me: **saiprashanth751@gmail.com**  
 
 🌐 **Connect with me:**  
